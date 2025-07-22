@@ -17,9 +17,6 @@ ADD animatediff ./animatediff
 ADD models ./models
 
 # Add necessary files
-ADD inference_v1.yaml ./
-ADD inference_v2.yaml ./
-ADD inference_util.py ./
 ADD server.py ./
 
 # pip install
